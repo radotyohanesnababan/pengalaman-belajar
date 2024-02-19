@@ -24,9 +24,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 ## 19 Februari 2024 <br> 
 
-Ini Test Merge
+Belajar Kelas Baru ( Progress 0%)
 
 
-Ini buat Konflik - 2
   
 
